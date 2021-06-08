@@ -1,3 +1,12 @@
+// -*- coding: utf-8 -*-
+// -*- lsst - c++ - *-
+
+/**
+ * @author : % (Arturo Bertomeu-Motos)
+ * @email : % (arturobm90@gmail.com)
+ * @institution : % (Biomedical Neuroengineering Research Group (UMH) (https://nbio.umh.es/))
+ */
+
 #include "simpleMath.h"
 
 #include <iostream>
